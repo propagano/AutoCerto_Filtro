@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autocerto - Filtro de Leads
 // @version      0.1
-// @description  Para agilizar o processo filtragem de leads, este código faz uma rodagem por todos os leads e pausando nos que são precisam de atenção.
+// @description  Para agilizar o processo filtragem de leads, este código faz uma rodagem por todos os leads e pausando nos que precisam de atenção.
 // @author       @jonnysundae
 // ==/UserScript==
 
